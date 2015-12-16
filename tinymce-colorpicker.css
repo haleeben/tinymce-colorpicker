@@ -1,9 +1,9 @@
-.wp-picker-container input[type="text"].wp-color-picker {
+#mceu_143 .wp-picker-container input[type="text"].wp-color-picker {
 	line-height: 22px;
 	height: 24px;
 }
 
-.wp-picker-container {
+#mceu_143 .wp-picker-container {
 	padding-top: 10px;
 }
 
@@ -11,7 +11,7 @@
 	margin: 0 10px;
 }
 
-.wp-color-result {
+#mceu_143 .wp-color-result {
 	display: none;
 }
 
@@ -19,11 +19,11 @@
 	display: inline!important;
 }
 
-.wp-picker-clear {
+#mceu_143 .wp-picker-clear {
 	display: none!important;
 }
 
-.wp-picker-container .iris-picker {
+#mceu_143 .wp-picker-container .iris-picker {
 	position: relative;
 	display: block!important;
 	height: 200px!important;
@@ -33,25 +33,25 @@
     background: #fff;
 }
 
-.wp-picker-input-wrap {
+#mceu_143 .wp-picker-input-wrap {
 	position: absolute;
 	z-index: 1;
 	display: none;
 }
 
-.iris-picker-inner {
+#mceu_143 .iris-picker-inner {
 	position: absolute;
 	top: 35px!important;
 	display: none;
 }
 
-.iris-palette-container {
+#mceu_143 .iris-palette-container {
 	position: absolute;
 	top: 0;
 	width: 200px;
 }
 
-.iris-palette {
+#mceu_143 .iris-palette {
 	width: 16px!important;
 	height: 16px!important;
 	margin: 2px!important;
@@ -61,12 +61,12 @@
 	background-color: #eee;
 }
 
-.iris-palette:focus {
+#mceu_143 .iris-palette:focus {
 	outline: none;
 }
 
-.iris-palette:hover:after,
-.iris-palette.active:after {
+#mceu_143 .iris-palette:hover:after,
+#mceu_143 .iris-palette.active:after {
 	width: 18px;
 	height: 18px;
 	content: '';
@@ -78,32 +78,32 @@
 	box-shadow: 0 1px 0 rgba(0,0,0,.08);
 }
 
-.tinymce-cp-footer {
+#mceu_143 .tinymce-cp-footer {
 	padding: 10px;
     width: 200px;
     background: #fff;
 }
 
-.wp-core-ui .tinymce-cp-custom {
+#mceu_143 .wp-core-ui .tinymce-cp-custom {
 	display: block;
 	float: left;
 }
 
-.wp-core-ui .tinymce-cp-apply {
+#mceu_143 .wp-core-ui .tinymce-cp-apply {
 	float: right;
 }
 
-.iris-picker .iris-square {
+#mceu_143 .iris-picker .iris-square {
 	width: 160px!important;
 	height: 160px!important;
 	margin-right: 10px;
 }
 
-.iris-picker .iris-slider {
+#mceu_143 .iris-picker .iris-slider {
 	height: 160px!important;
 }
 
-.mce-toolbar .mce-colorbutton .mce-preview {
+#mceu_143 .mce-toolbar .mce-colorbutton .mce-preview {
 	margin-left: 0;
 	top: auto;
 	bottom: 2px;
@@ -112,7 +112,7 @@
 	width: 20px;
 }
 
-i.mce-i-backcolor {
+#mce_143 i.mce-i-backcolor {
 	font: normal 20px/1 'dashicons';
 	padding: 0;
 	vertical-align: top;
@@ -124,6 +124,6 @@ i.mce-i-backcolor {
 	content: '\f215';
 }
 
-i.mce-i-backcolor:before {
+#mce_143 i.mce-i-backcolor:before {
 	content: '\f215';
 }
